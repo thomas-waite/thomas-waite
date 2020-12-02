@@ -1,7 +1,9 @@
 ### 👋 Hi there 
-I'm a software engineer interested in Ethereum + DeFi, Machine Learning + NLP. I've been working in the Ethereum space at [Aztec](https://aztec.network/index.html) and live and work in London :)
+I'm a software engineer interested in Ethereum + DeFi, Machine Learning + NLP. 
 
-### 🔭 Projects
+I've been working in the Ethereum space at [Aztec](https://aztec.network/index.html), and before that I studied Physics at Imperial College London. My thesis was focused on computer vision - we were flying drones over fields, multispectrally imaging the vegetation and then using a combination of supervised + unsupervised learning to generate segmentation maps. I live and work in London :)
+
+### 🔭 Selected projects
 - Interest yielding escrow solution for rental tenancy deposits. [Deployed](https://betterdeposits.com/) | [Code](https://github.com/hack-money/better-deposits)
 - NLP app to auto-generate paragraphs from sentence starts. [Code](https://github.com/thomas-waite/text-improve)
 - Generalised options protocol that offers puts/calls on digital financial assets. [Deployed](http://coveroptions.eth.link) | [Code](https://github.com/hack-money/Cover) 

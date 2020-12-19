@@ -8,6 +8,7 @@ I've been working in the Ethereum space at [Aztec](https://aztec.network/index.h
 - Interest yielding escrow solution for rental tenancy deposits. [Deployed](https://betterdeposits.com/) | [Code](https://github.com/hack-money/better-deposits)
 - NLP app to auto-generate paragraphs from sentence starts. [Deployed](https://www.textgen.dev/) | [Code](https://github.com/thomas-waite/text-improve)
 - Generalised options protocol that offers puts/calls on digital financial assets, Cover. [Deployed](http://coveroptions.eth.link) | [Code](https://github.com/hack-money/Cover) | [Press](https://defirate.com/hackmoney-hackathon-winners/)
+- Computer vision Master's thesis on plant detection from UAVs. [Overview](https://github.com/thomas-waite/computer-vision-thesis)
 - Privacy preserving wallet recovery tech, zkSocialRecovery. [Deployed](https://gateway.temporal.cloud/ipns/ui.solui.dev/#l=QmTAMtWNxVFgznQhrWtYCwhqjom94nvTaQcXP9uPScTDgJ&shortEmbedUrl=https%3A%2F%2Fsolui.dev%2Fui%2FQmTAMtWNxVFgznQhrWtYCwhqjom94nvTaQcXP9uPScTDgJ) | [Code](https://github.com/thomas-waite/zkSocialRecovery) | [Presentation](https://www.youtube.com/watch?v=FLQCfkMv6I0&ab_channel=ETHGlobal)
 
 ### 📫 Get in touch

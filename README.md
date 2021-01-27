@@ -5,7 +5,7 @@ I'm a software engineer interested in Ethereum + DeFi, Machine Learning + NLP. C
 I've been working in the Ethereum space at [Aztec](https://aztec.network/index.html), and before that I studied Physics ⚛️ at Imperial College London. My thesis was focused on computer vision - flying drones over fields, multispectrally imaging the vegetation and then using a combination of supervised + unsupervised learning to generate segmentation maps. I live and work in London :)
 
 ### 🔭 Selected projects
-- Outboundly. A GPT-3 powered tool that creates compelling, personalised emails in seconds. Currently in closed alpha at: [Alpha](https://www.outboundly.io/) 
+- Outboundly. A GPT-3 powered tool that creates compelling, personalised emails in seconds. Currently in beta at: [Alpha](https://www.outboundly.io/) 
 - Interest yielding escrow solution for rental tenancy deposits. [Deployed](https://betterdeposits.com/) | [Code](https://github.com/hack-money/better-deposits)
 - Generalised options protocol that offers puts/calls on digital financial assets, Cover. [Deployed](http://coveroptions.eth.link) | [Code](https://github.com/hack-money/Cover) | [Press](https://defirate.com/hackmoney-hackathon-winners/)
 - Computer vision Master's thesis on plant detection from UAVs. [Overview](https://github.com/thomas-waite/computer-vision-thesis)

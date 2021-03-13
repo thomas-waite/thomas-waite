@@ -17,4 +17,5 @@ I've been working in the Ethereum space at [Aztec](https://aztec.network/index.h
 ### 📫 Get in touch
 Feel free to reach out!
 - Email: thomas.waite4@gmail.com
+- Website: [https://thomas-waite.github.io/](https://thomas-waite.github.io/)
 - [Twitter](https://twitter.com/tom_waite_)

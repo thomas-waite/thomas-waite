@@ -1,21 +1,18 @@
-### 👋 Hi there 
-I'm a software engineer interested in Ethereum + DeFi, Machine Learning + NLP. Currently exploring and figuring out what's next! 
+I'm a software engineer working in decentralised finance on the Ethereum blockchain at [Fei Protocol](https://fei.money/), part of the [Tribe DAO](https://docs.tribedao.xyz/).
 
 ### 📚 Background
-I've been working in the Ethereum space at [Aztec](https://aztec.network/index.html), and before that I studied Physics ⚛️ at Imperial College London. My thesis was focused on computer vision - flying drones over fields, multispectrally imaging the vegetation and then using a combination of supervised + unsupervised learning to generate segmentation maps. I live and work in London :)
+I work on the [Fei stablecoin](https://fei.money/), a digital currency that is soft pegged to 1 USD. It is part of the [Tribe DAO](https://docs.tribedao.xyz/) - a decentralised autonomous organisation that consists of a community and ecosystem of decentralised finance protocols and products. 
 
-### 🔭 Selected projects
-- Outboundly. A GPT-3 powered set of tools used to create compelling, personalised sales outreach emails in seconds. Launched with paying users and paid company trials:
-   - v1: [https://www.outboundly.io/](https://www.outboundly.io/) 
-   - v2: [https://www.outboundly.net/](https://www.outboundly.net/)
-   - English improver: [https://english-improve.outboundly.io/](https://english-improve.outboundly.io/) 
-- Interest yielding escrow solution for rental tenancy deposits. [Deployed](https://betterdeposits.com/) | [Code](https://github.com/hack-money/better-deposits)
-- Generalised options protocol that offers puts/calls on digital financial assets, Cover. [Deployed](http://coveroptions.eth.link) | [Code](https://github.com/hack-money/Cover) | [Press](https://defirate.com/hackmoney-hackathon-winners/)
-- Computer vision Master's thesis on plant detection from UAVs. [Overview](https://github.com/thomas-waite/computer-vision-thesis)
-- Novel privacy preserving wallet recovery tech, zkSocialRecovery. [Deployed](https://gateway.temporal.cloud/ipns/ui.solui.dev/#l=QmTAMtWNxVFgznQhrWtYCwhqjom94nvTaQcXP9uPScTDgJ&shortEmbedUrl=https%3A%2F%2Fsolui.dev%2Fui%2FQmTAMtWNxVFgznQhrWtYCwhqjom94nvTaQcXP9uPScTDgJ) | [Code](https://github.com/thomas-waite/zkSocialRecovery) | [Presentation](https://www.youtube.com/watch?v=FLQCfkMv6I0&ab_channel=ETHGlobal)
+Prior to that I was an early employee at the ZK-Rollup and scaling company, Aztec Protocol; having previously studied Physics at Imperial College London.
+
+### 🔭 Projects I've worked on:
+- [Fei Protocol](https://github.com/fei-protocol/fei-protocol-core) - a stablecoin soft pegged to 1 USD
+- [Aztec Protocol](https://github.com/AztecProtocol/AZTEC) - a ZK-Rollup scaling and privacy solution for Ethereum
+- [Outboundly](https://www.outboundly.io/) - a GPT-3 powered AI sales support tool
+- [Cover options](https://defirate.com/hackmoney-hackathon-winners/) - HackMoney hackathon winning, generalised options protocol that offers puts/calls on digital financial assets]
+- [zkSocialRecovery](https://www.youtube.com/watch?v=FLQCfkMv6I0&ab_channel=ETHGlobal) - EthLondon hackathon winning, novel privacy preserving wallet recovery tech
 
 ### 📫 Get in touch
 Feel free to reach out!
 - Email: thomas.waite4@gmail.com
-- Website: [https://thomas-waite.github.io/](https://thomas-waite.github.io/)
 - [Twitter](https://twitter.com/tom_waite_)

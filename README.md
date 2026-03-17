@@ -1,6 +1,4 @@
-I'm building Dawn Wallet (https://github.com/dawnwallet)
+Building the Wallet at World
 
 ### Get in touch
-Feel free to reach out!
-- Email: thomas.waite4@gmail.com
-- [Twitter](https://twitter.com/tom_waite_)
+- [X](https://x.com/waitetom)
